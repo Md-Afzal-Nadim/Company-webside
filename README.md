@@ -24,12 +24,14 @@ A modern and responsive **business website** built using **HTML, CSS, and JavaSc
 
 ### 🏠 Home Page
 
-![Home Page](<img width="1919" height="919" alt="company photo" src="https://github.com/user-attachments/assets/8be42cf0-27ae-4ced-9b1e-1b2ee2f66eb8" />
+![Home Page](<img width="1919" height="919" alt="company photo" src="https://github.com/user-attachments/assets/aef39bc7-0f0a-45d3-b3ad-0ccb929c4b87" />
+
 )
 
 ### 🛒 Products Section
 
-![Products Section](<img width="1897" height="908" alt="Screenshot 2026-04-16 125943" src="https://github.com/user-attachments/assets/a12ab09e-ac9f-41cd-a6a8-b303e03a4f62" />
+![Products Section](<img width="1897" height="908" alt="Screenshot 2026-04-16 125943" src="https://github.com/user-attachments/assets/27e230d4-ba59-4402-b50f-893da9e9aca5" />
+
 )
 
 ## 📌 Main Sections
@@ -55,10 +57,6 @@ I created this project to practice building a real-world company website with a 
 * Integrating chatbot interface design
 
 ## 🔗 Live Demo
-
-Add your deployed website link here
-
-## 💻 GitHub Repository
 
 https://company-webside.vercel.app/
 
